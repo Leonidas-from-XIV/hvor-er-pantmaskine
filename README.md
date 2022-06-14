@@ -19,6 +19,10 @@ Machine locations
 | Netto | Blågårdsgade 26 | 2200 København N | Outside | Right of the entrance around the corner of the building |  |
 | Meny | Borups Allé 126, 130 | 2000 Frederiksberg | Inside | Right side of the building, behind a wall |  |
 | Lidl | Nordre Fasanvej 207 | 2000 Frederiksberg | Outside | Right of the entrance, around the corner, behind bike parking |  |
+| Rema 1000 | Amager Strandvej 108 | 2300 København S | Inside | Right side of the building, before the coolers |  |
+| Lidl | Øresundsvej 154 | 2300 København S | Inside | Right side of the building close to the cashiers |  |
+| Kvickly | Strandlodsvej 43 | 2300 København S | Outside | In the building but left from the shop entrance |  |
+| Coop365 | Strandlodsvej 45 | 2300 København S | Outside | In the building, but left from the entrance to Kvickly | Closes when Kvickly closes |
 
 License
 -------
