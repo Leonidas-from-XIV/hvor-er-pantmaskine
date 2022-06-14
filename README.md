@@ -23,6 +23,7 @@ Machine locations
 | Lidl | Øresundsvej 154 | 2300 København S | Inside | Right side of the building close to the cashiers |  |
 | Kvickly | Strandlodsvej 43 | 2300 København S | Outside | In the building but left from the shop entrance |  |
 | Coop365 | Strandlodsvej 45 | 2300 København S | Outside | In the building, but left from the entrance to Kvickly | Closes when Kvickly closes |
+| Føtex | Reberbanegade 3 | 2300 København S | Outside | Before entering the store on the left |  |
 
 License
 -------
